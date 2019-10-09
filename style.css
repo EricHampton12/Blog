@@ -74,16 +74,28 @@ body{
 }
 
 .container .lead{
-  color:#1ebba3;
+  color:#eef0ef;
 }
 
 .jumbotron{
-  color: #1ebba3;
+  color: #eaf1f0;
 }
 
 .btn{
-  color: #1ebba3;
+  color: black solid;
 }
+
+.my-container{
+  align-content: center;
+  text-align: center;
+  font-size: 30px;
+  
+}
+
+.custom-container{
+  align-content: center;
+}
+
 
     
 
